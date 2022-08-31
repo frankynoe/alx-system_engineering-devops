@@ -7,3 +7,5 @@ file 2-bring_me_home: script that change the working directory to the user's hom
 file 3-listfiles: display current directory contents in long format
 
 file 4-listmorefiles: list contents including hide files
+
+file 5-listfiesdigitonly: list contents including hide files in long format with digit
