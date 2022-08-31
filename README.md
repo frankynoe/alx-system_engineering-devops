@@ -1,1 +1,1 @@
-script that prints the absolute path of the current directory# alx-system_engineering-devops
+go through the project of shell basics
