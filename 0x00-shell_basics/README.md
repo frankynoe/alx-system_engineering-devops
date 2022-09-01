@@ -19,3 +19,5 @@ file 8-firstdelete: delete the betty file
 file 9-firstdirdeletion: delete the directory
 
 file 10-back: prints the previous directory
+
+file 11-list: list files with parent directory
