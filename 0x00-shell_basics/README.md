@@ -15,3 +15,5 @@ file 6-firstdirectory: script that create a directory
 file 7-movethatfile: script that moves betty file from a directory to another one
 
 file 8-firstdelete: delete the betty file
+
+file 9-firstdirdeletion: delete the directory
