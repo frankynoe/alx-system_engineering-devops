@@ -11,3 +11,5 @@ file 4-listmorefiles: list contents including hide files
 file 5-listfiesdigitonly: list contents including hide files in long format with digit
 
 file 6-firstdirectory: script that create a directory
+
+file 7-movethatfile: script that moves betty file from a directory to another one
