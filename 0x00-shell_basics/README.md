@@ -12,12 +12,14 @@ file 5-listfiesdigitonly: list contents including hide files in long format with
 
 file 6-firstdirectory: script that create a directory
 
-file 7-movethatfile: script that moves betty file from a directory to another one
+file 7-movethatfile: script that moves betty file from a directory to another one.
 
-file 8-firstdelete: delete the betty file
+file 8-firstdelete: delete the betty file.
 
-file 9-firstdirdeletion: delete the directory
+file 9-firstdirdeletion: delete the director.y
 
-file 10-back: prints the previous directory
+file 10-back: prints the previous directory.
 
-file 11-list: list files with parent directory
+file 11-list: list files with parent directory.
+
+file 12-file_type: display the type of a file.
