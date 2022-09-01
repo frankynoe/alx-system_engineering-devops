@@ -17,3 +17,5 @@ file 7-movethatfile: script that moves betty file from a directory to another on
 file 8-firstdelete: delete the betty file
 
 file 9-firstdirdeletion: delete the directory
+
+file 10-back: prints the previous directory
