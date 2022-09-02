@@ -5,3 +5,4 @@ file 3-new_owner: chage hello's owner to betty.
 file 4-empty: command to create an empty file
 file 5-execute: add execute permission on hello file
 file 6-multiple_permkssions: add multiple permissions
+file 7-everybody: add execution permissions
