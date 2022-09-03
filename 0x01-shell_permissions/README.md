@@ -7,3 +7,4 @@ file 5-execute: add execute permission on hello file
 file 6-multiple_permkssions: add multiple permissions
 file 7-everybody: add execution permissions
 file 8-james_bond: set permissions to others
+file 9-John_Doe: all others permissions
